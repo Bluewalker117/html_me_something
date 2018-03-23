@@ -24,12 +24,50 @@ h1 {
     width: 100%;
 }
 
+.armor_name_heading {
+    font-family: Times New Roman;
+    color: darkblue;
+    font-size: 36px;
+    font-weight: auto;
+    text-decoration: underline;
+    text-align: left;
+    margin: auto;
+    width: 100%;
+}
+
+.crafting_heading {
+    font-family: Ariel;
+    color: seagreen;
+    font-size: 36px;
+    font-weight: auto;
+    text-decoration: underline;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+}
+
 li {
     display: inline;
 }
 
 p {
     font-family: Garamond;
+    color: auto;
+    font-size: 24px;
+}
+
+p2 {
+    font-family: Garamond;
+    color: auto;
+    font-size: 24px;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    padding: 90px;    
+}
+
+#outside_link {
+    font-size: 36px;
 }
 
 #list_navigation {
@@ -54,9 +92,27 @@ p {
     padding: 0;
 }
 
-
-
-
-    color: auto;
-    font-size: 24px;
+table {
+    margin_top: 100;
+    width: auto;
+    padding: 0;
 }
+
+table {
+    border: 2px solid black;
+    font-size: 20px;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+}
+
+th {
+    color: #191970;
+    background-color: #E9967A;
+}
+
+th, td {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+
