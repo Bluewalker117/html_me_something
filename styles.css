@@ -66,6 +66,15 @@ p2 {
     padding: 90px;    
 }
 
+p3 {
+    font-family: Garamond;
+    color: blue;
+    font-size: 24px;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+}
+
 #outside_link {
     font-size: 36px;
 }
